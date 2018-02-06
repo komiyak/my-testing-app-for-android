@@ -8,4 +8,10 @@
     tools:context="com.example.kosuke.mytesting.mytestingapplication.MainActivity"
     tools:showIn="@layout/activity_main">
 
+
+    <TextView
+        android:id="@+id/hello"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello my app" />
 </android.support.constraint.ConstraintLayout>
